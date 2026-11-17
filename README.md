@@ -1,6 +1,6 @@
 # João Lucas Dantas
 
-**Desenvolvimento back-end · Java · Spring Boot**
+**Desenvolvimento back-end · Java · Spring Boot · Python · Flask · SQL**
 
 Sou estudante de Ciência da Computação na UNIESP, em João Pessoa, e desenvolvo projetos para aprofundar meus conhecimentos em back-end. Meu foco está em APIs, regras de negócio e integração com bancos de dados relacionais.
 
@@ -8,7 +8,7 @@ Sou estudante de Ciência da Computação na UNIESP, em João Pessoa, e desenvol
 
 ## Projeto em destaque
 
-### [Danzerra — Gestão de barbearia](https://github.com/jldantass/danzerra-barbearia)
+### [Sistema de Gestão de barbearia](https://github.com/jldantass/danzerra-barbearia)
 
 Projeto concluído: sistema para organizar clientes, profissionais, serviços, planos mensais, agendamentos e movimento financeiro de uma barbearia.
 
@@ -20,13 +20,13 @@ Neste projeto, implementei regras de disponibilidade por profissional, consumo d
 | --- | --- | --- |
 | [Sistema Financeiro](https://github.com/jldantass/Projeto-SistFinanceiro) | API para gerenciar categorias, pessoas e lançamentos financeiros, com validação de dados e migrations. | Java, Spring Boot, JPA, MySQL e Flyway |
 | [Biblioteca Calporto](https://github.com/jldantass/Projeto-Biblioteca) | Sistema de gerenciamento e aluguel de livros, com perfis de cliente e administrador. | Python, Flask e MySQL |
-| [UniPets](https://github.com/jldantass/unipets) | Projeto de extensão para gerenciar clientes, pets, banhos, planos e preços de um pet shop. | React, Vite e Supabase |
+| [Loja de Celulares](https://github.com/jldantass/Projeto-Loja-de-Celulares) | Sistema CRUD de uma loja de celulares, desenvolvido com programação orientada a objetos. | C++ |
 
 ## Tecnologias que utilizo nos projetos
 
-- **Back-end:** Java, Spring Boot, Spring MVC, Spring Data JPA e Spring Security.
-- **Dados:** PostgreSQL, MySQL e migrations SQL com Flyway.
-- **Web:** HTML, CSS e JavaScript; também tenho projetos com React e Flask.
+- **Back-end:** Java, Spring Boot, Python, C, C++.
+- **Dados:** PostgreSQL, MySQL.
+- **Web:** HTML, CSS, JavaScript, React, Flask.
 - **Ferramentas:** Git, Maven e Insomnia.
 
 ## Foco de estudo
