@@ -10,7 +10,7 @@ Sou estudante de Ciência da Computação na UNIESP, em João Pessoa, e desenvol
 
 ### [Sistema de Gestão de barbearia](https://github.com/jldantass/danzerra-barbearia)
 
-Projeto concluído: sistema para organizar clientes, profissionais, serviços, planos mensais, agendamentos e movimento financeiro de uma barbearia.
+Sistema para organizar clientes, profissionais, serviços, planos mensais, agendamentos e movimento financeiro de uma barbearia.
 
 Neste projeto, implementei regras de disponibilidade por profissional, consumo de benefícios dos planos e autenticação por sessão. A aplicação integra uma interface web a um back-end com **Java, Spring Boot, Spring Security, PostgreSQL e Flyway**.
 
@@ -28,7 +28,3 @@ Neste projeto, implementei regras de disponibilidade por profissional, consumo d
 - **Dados:** PostgreSQL, MySQL.
 - **Web:** HTML, CSS, JavaScript, React, Flask.
 - **Ferramentas:** Git, Maven e Insomnia.
-
-## Foco de estudo
-
-Estou aprofundando meus conhecimentos em organização de aplicações Spring, validação de dados, autenticação e testes das regras de negócio.
